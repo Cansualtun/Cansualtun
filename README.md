@@ -3,4 +3,5 @@
 ## 🌱 I’m currently learning JAVASCRİPT.
 
 
-🔗  ##Connect with me 
+🔗 
+##CONNECT WİTH ME

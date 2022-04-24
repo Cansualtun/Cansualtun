@@ -8,5 +8,6 @@
 ### You can always connect me altuncansu98@gmail.com
 
  ## Also Connect with me: 
+ https://img.shields.io/badge/LinkedIn-blue
 
 

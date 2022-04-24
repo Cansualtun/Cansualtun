@@ -1,5 +1,6 @@
 ## Hi there , I am Cansu 🚶 
-![image](https://user-images.githubusercontent.com/56805734/164993119-b982bb72-73bf-4146-853d-4df791e5b539.png)
+![image](https://user-images.githubusercontent.com/56805734/164993195-8f945b32-01a4-48ae-9b59-dc197f18ad41.png)
+
 
 
 ## 🧡 I’m currently learning JAVASCRİPT🙌

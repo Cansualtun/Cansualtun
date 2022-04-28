@@ -3,7 +3,7 @@
 
 
 
-## 🧡 I’m currently learning JAVASCRİPT🙌
+## 🧡 I’m currently learning JAVASCRIPT🙌
 ### I am pretty new this field! I especially working on web developing. I will share my project.Stay tuned!!
 ### You can always connect me altuncansu98@gmail.com
 

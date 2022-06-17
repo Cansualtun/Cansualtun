@@ -2,8 +2,8 @@
 
 
 ## 🧡 I’m currently learning JAVASCRIPT🙌
-### I am pretty new this field! I especially working on web developing. I will share my project.Stay tuned!!
-### You can always connect me altuncansu98@gmail.com
+## I am pretty new this field! I especially working on web developing. I will share my project.Stay tuned!!
+## You can always connect me altuncansu98@gmail.com
 
  ## Also Connect with me: 
   <a href="https://www.linkedin.com/in/cansualtun/">

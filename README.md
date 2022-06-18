@@ -1,11 +1,11 @@
 <h2 align="center">Hello there! 🚀 I'm Cansu</h1>
 
 
-https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif
 - 🌱 I’m currently working with **JavaScript, and React**
 
 - 📫 How to reach me **altuncansu98@gmail.com**
- </p>
+ </p>![cansu](https://user-images.githubusercontent.com/56805734/174457270-5239c978-69fb-41cb-9807-26f824515363.jpeg)
+
 
 <br>
 <h3 align="left">Connect with me:</h3>

@@ -1,7 +1,7 @@
 <h2 align="center">Hello there! 🚀 I'm Cansu</h1>
 
 
-
+https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif
 - 🌱 I’m currently working with **JavaScript, and React**
 
 - 📫 How to reach me **altuncansu98@gmail.com**

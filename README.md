@@ -4,7 +4,8 @@
 - 🌱 I’m currently working with **JavaScript, and React**
 
 - 📫 How to reach me **altuncansu98@gmail.com**
- </p>![cansu](https://user-images.githubusercontent.com/56805734/174457270-5239c978-69fb-41cb-9807-26f824515363.jpeg)
+
+![cansu](https://user-images.githubusercontent.com/56805734/174457286-587d081b-d8f4-4970-9f32-2b3b9d25169f.jpeg)
 
 
 <br>

@@ -1,7 +1,7 @@
 <h2 align="center">Hello there! 🚀 I'm Cansu</h1>
 <div align="center">
 
- 🌱 I’m currently working with **JavaScript, and React**
+ 🌱 I’m working with **JavaScript, and React also learning Node.js.**
 
  📫 How to reach me **altuncansu98@gmail.com**
 

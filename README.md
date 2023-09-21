@@ -5,7 +5,7 @@
 
  📫 How to reach me **altuncansu98@gmail.com**
 
-![cansu](https://user-images.githubusercontent.com/56805734/174457286-587d081b-d8f4-4970-9f32-2b3b9d25169f.jpeg)
+(https://user-images.githubusercontent.com/56805734/174457286-587d081b-d8f4-4970-9f32-2b3b9d25169f.jpeg)
 <br>
 
 <h3 align="center">Connect with me:</h3>

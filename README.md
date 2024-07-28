@@ -8,4 +8,4 @@
 <h1>Most Used Language</h1> 
 <a href="https://github.com/Cansualtun" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cansualtun&langs_count=10&title_color=0891b2&text_color=14b8a6&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
-[![wakatime](https://wakatime.com/badge/user/8c955f92-c551-4d30-9c85-bec99ae75d38.svg)](https://wakatime.com/@8c955f92-c551-4d30-9c85-bec99ae75d38)
+
